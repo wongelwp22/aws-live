@@ -4,4 +4,3 @@ custompass = "Bait3273"
 customdb = "employee"
 custombucket = "wongeuling-employee"
 customregion = "us-east-1"
-
